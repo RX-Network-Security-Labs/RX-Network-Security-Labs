@@ -31,7 +31,9 @@ class RXNetworkSecurityLabs:
 ## `> QUOTE OF THE DAY`
 
 <!--START_SECTION:quote-->
-> *"Loading..."*
+> *"You have zero privacy anyway. Get over it."*
+>
+> — **Scott McNealy — and exactly why we exist.**
 <!--END_SECTION:quote-->
 
 ---
@@ -39,7 +41,7 @@ class RXNetworkSecurityLabs:
 ## `> LATEST FROM TELEGRAM`
 
 <!--START_SECTION:telegram-->
-> Fetching latest post...
+> Could not fetch latest post — [visit our channel](https://t.me/rxnetworksecuritylabs)
 <!--END_SECTION:telegram-->
 
 ---
@@ -47,7 +49,7 @@ class RXNetworkSecurityLabs:
 ## `> OUR APPS`
 
 <!--START_SECTION:apps-->
-> 🔧 No apps released yet — stay tuned.
+> No apps released yet — stay tuned.
 <!--END_SECTION:apps-->
 
 ---
@@ -55,7 +57,7 @@ class RXNetworkSecurityLabs:
 ## `> OUR TOOLS`
 
 <!--START_SECTION:tools-->
-> 🔧 Tools dropping soon.
+> Tools dropping soon.
 <!--END_SECTION:tools-->
 
 ---
@@ -63,7 +65,7 @@ class RXNetworkSecurityLabs:
 ## `> OUR SERVICES`
 
 <!--START_SECTION:services-->
-> 🔧 Services coming soon.
+> Services coming soon.
 <!--END_SECTION:services-->
 
 ---
@@ -71,7 +73,7 @@ class RXNetworkSecurityLabs:
 ## `> RESEARCH & WRITEUPS`
 
 <!--START_SECTION:research-->
-> 🔧 Research & writeups coming soon.
+> Research & writeups coming soon.
 <!--END_SECTION:research-->
 
 ---
@@ -95,7 +97,19 @@ class RXNetworkSecurityLabs:
 ## `> ACHIEVEMENTS`
 
 <!--START_SECTION:achievements-->
-> Loading stats...
+```
+╔══════════════════════════════════════════════════════╗
+║               RNSL  ACHIEVEMENTS                     ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  📦  Repositories      1   ████░░░░░░░░░░░░░░░░  → 5  ║
+║  ⭐  Total Stars       0   ░░░░░░░░░░░░░░░░░░░░  → 10  ║
+║  🍴  Total Forks       0   ░░░░░░░░░░░░░░░░░░░░  → 10  ║
+║  👁️  Watchers          0                                  ║
+║  🔤  Primary Lang   —                                     ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
 <!--END_SECTION:achievements-->
 
 ---
@@ -136,7 +150,7 @@ class RXNetworkSecurityLabs:
 <div align="center">
 
 <!--START_SECTION:timestamp-->
-`Last synced: —`
+`Last synced: 2026-06-18 10:05 UTC`
 <!--END_SECTION:timestamp-->
 
 &nbsp;
