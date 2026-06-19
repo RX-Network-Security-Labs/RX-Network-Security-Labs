@@ -31,9 +31,9 @@ class RXNetworkSecurityLabs:
 ## `> QUOTE OF THE DAY`
 
 <!--START_SECTION:quote-->
-> *"You have zero privacy anyway. Get over it."*
+> *"Privacy is not something I'm merely entitled to — it's an absolute prerequisite."*
 >
-> — **Scott McNealy — and exactly why we exist.**
+> — **Marlon Brando**
 <!--END_SECTION:quote-->
 
 ---
@@ -150,7 +150,7 @@ class RXNetworkSecurityLabs:
 <div align="center">
 
 <!--START_SECTION:timestamp-->
-`Last synced: 2026-06-18 20:43 UTC`
+`Last synced: 2026-06-19 13:01 UTC`
 <!--END_SECTION:timestamp-->
 
 &nbsp;
