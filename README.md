@@ -31,9 +31,9 @@ class RXNetworkSecurityLabs:
 ## `> QUOTE OF THE DAY`
 
 <!--START_SECTION:quote-->
-> *"We should treat personal electronic data with the same care and respect as we treat sensitive documents."*
+> *"Privacy is the foundation of all other rights."*
 >
-> — **Tim Berners-Lee**
+> — **Glenn Greenwald**
 <!--END_SECTION:quote-->
 
 ---
@@ -150,7 +150,7 @@ class RXNetworkSecurityLabs:
 <div align="center">
 
 <!--START_SECTION:timestamp-->
-`Last synced: 2026-06-22 23:07 UTC`
+`Last synced: 2026-06-23 11:44 UTC`
 <!--END_SECTION:timestamp-->
 
 &nbsp;
