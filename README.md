@@ -31,9 +31,9 @@ class RXNetworkSecurityLabs:
 ## `> QUOTE OF THE DAY`
 
 <!--START_SECTION:quote-->
-> *"Privacy is the foundation of all other rights."*
+> *"Security is not a product, but a process."*
 >
-> — **Glenn Greenwald**
+> — **Bruce Schneier**
 <!--END_SECTION:quote-->
 
 ---
@@ -150,7 +150,7 @@ class RXNetworkSecurityLabs:
 <div align="center">
 
 <!--START_SECTION:timestamp-->
-`Last synced: 2026-06-23 19:28 UTC`
+`Last synced: 2026-06-24 10:37 UTC`
 <!--END_SECTION:timestamp-->
 
 &nbsp;
