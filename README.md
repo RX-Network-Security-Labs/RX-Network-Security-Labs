@@ -31,9 +31,9 @@ class RXNetworkSecurityLabs:
 ## `> QUOTE OF THE DAY`
 
 <!--START_SECTION:quote-->
-> *"Encryption works. Properly implemented strong crypto systems are one of the few things you can rely on."*
+> *"The only truly secure system is one that is powered off."*
 >
-> — **Edward Snowden**
+> — **Gene Spafford**
 <!--END_SECTION:quote-->
 
 ---
@@ -150,7 +150,7 @@ class RXNetworkSecurityLabs:
 <div align="center">
 
 <!--START_SECTION:timestamp-->
-`Last synced: 2026-06-25 19:23 UTC`
+`Last synced: 2026-06-26 11:20 UTC`
 <!--END_SECTION:timestamp-->
 
 &nbsp;
