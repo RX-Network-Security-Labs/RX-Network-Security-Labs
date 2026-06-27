@@ -31,9 +31,9 @@ class RXNetworkSecurityLabs:
 ## `> QUOTE OF THE DAY`
 
 <!--START_SECTION:quote-->
-> *"The only truly secure system is one that is powered off."*
+> *"If you think technology can solve your security problems, then you don't understand the problems and you don't understand the technology."*
 >
-> — **Gene Spafford**
+> — **Bruce Schneier**
 <!--END_SECTION:quote-->
 
 ---
@@ -150,7 +150,7 @@ class RXNetworkSecurityLabs:
 <div align="center">
 
 <!--START_SECTION:timestamp-->
-`Last synced: 2026-06-26 18:13 UTC`
+`Last synced: 2026-06-27 09:33 UTC`
 <!--END_SECTION:timestamp-->
 
 &nbsp;
