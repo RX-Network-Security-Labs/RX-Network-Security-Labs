@@ -31,9 +31,9 @@ class RXNetworkSecurityLabs:
 ## `> QUOTE OF THE DAY`
 
 <!--START_SECTION:quote-->
-> *"If you think technology can solve your security problems, then you don't understand the problems and you don't understand the technology."*
+> *"You have zero privacy anyway. Get over it."*
 >
-> — **Bruce Schneier**
+> — **Scott McNealy — and exactly why we exist.**
 <!--END_SECTION:quote-->
 
 ---
@@ -150,7 +150,7 @@ class RXNetworkSecurityLabs:
 <div align="center">
 
 <!--START_SECTION:timestamp-->
-`Last synced: 2026-06-27 21:43 UTC`
+`Last synced: 2026-06-28 10:14 UTC`
 <!--END_SECTION:timestamp-->
 
 &nbsp;
