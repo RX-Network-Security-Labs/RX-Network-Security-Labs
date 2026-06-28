@@ -49,7 +49,9 @@ class RXNetworkSecurityLabs:
 ## `> OUR APPS`
 
 <!--START_SECTION:apps-->
-> No apps released yet — stay tuned.
+| Repository | Description | Language | Stats | Updated |
+|---|---|---|---|---|
+| [`Warden`](https://github.com/RX-Network-Security-Labs/Warden) | Monitor which apps are secretly accessing your camera, mic, location a |  | ⭐ 0 &nbsp; 🍴 0 | `2026-06-28` |
 <!--END_SECTION:apps-->
 
 ---
@@ -81,7 +83,10 @@ class RXNetworkSecurityLabs:
 ## `> LATEST RELEASES`
 
 <!--START_SECTION:releases-->
-> No releases yet — first drop incoming.
+| Repository | Release | Notes | Date |
+|---|---|---|---|
+| [`Warden`](https://github.com/RX-Network-Security-Labs/Warden/releases/tag/v1.0.0) | `v1.0.0` · Warden v1.0.0 | ## 🛡️ Warden v1.0.0 — Initial Release | `2026-06-28` |
+
 <!--END_SECTION:releases-->
 
 ---
@@ -150,7 +155,7 @@ class RXNetworkSecurityLabs:
 <div align="center">
 
 <!--START_SECTION:timestamp-->
-`Last synced: 2026-06-28 10:14 UTC`
+`Last synced: 2026-06-28 16:41 UTC`
 <!--END_SECTION:timestamp-->
 
 &nbsp;
