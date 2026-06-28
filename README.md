@@ -51,7 +51,7 @@ class RXNetworkSecurityLabs:
 <!--START_SECTION:apps-->
 | Repository | Description | Language | Stats | Updated |
 |---|---|---|---|---|
-| [`Warden`](https://github.com/RX-Network-Security-Labs/Warden) | Monitor which apps are secretly accessing your camera, mic, location a |  | ⭐ 0 &nbsp; 🍴 0 | `2026-06-28` |
+| [`Warden`](https://github.com/RX-Network-Security-Labs/Warden) | Monitor which apps are secretly accessing your camera, mic, location a |  | ⭐ 1 &nbsp; 🍴 0 | `2026-06-28` |
 <!--END_SECTION:apps-->
 
 ---
@@ -108,9 +108,9 @@ class RXNetworkSecurityLabs:
 ╠══════════════════════════════════════════════════════╣
 ║                                                      ║
 ║  📦  Repositories      2   ████████░░░░░░░░░░░░  → 5  ║
-║  ⭐  Total Stars       0   ░░░░░░░░░░░░░░░░░░░░  → 10  ║
+║  ⭐  Total Stars       1   ██░░░░░░░░░░░░░░░░░░  → 10  ║
 ║  🍴  Total Forks       0   ░░░░░░░░░░░░░░░░░░░░  → 10  ║
-║  👁️  Watchers          0                                  ║
+║  👁️  Watchers          1                                  ║
 ║  🔤  Primary Lang   HTML                                  ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
@@ -155,7 +155,7 @@ class RXNetworkSecurityLabs:
 <div align="center">
 
 <!--START_SECTION:timestamp-->
-`Last synced: 2026-06-28 16:41 UTC`
+`Last synced: 2026-06-28 21:45 UTC`
 <!--END_SECTION:timestamp-->
 
 &nbsp;
