@@ -85,7 +85,8 @@ class RXNetworkSecurityLabs:
 <!--START_SECTION:releases-->
 | Repository | Release | Notes | Date |
 |---|---|---|---|
-| [`Warden`](https://github.com/RX-Network-Security-Labs/Warden/releases/tag/v1.0.0) | `v1.0.0` · Warden v1.0.0 | ## 🛡️ Warden v1.0.0 — Initial Release | `2026-06-28` |
+| [`Warden`](https://github.com/RX-Network-Security-Labs/Warden/releases/tag/v1.0.0) | `v1.0.0` · Warden v1.0.0 | ## 🛡️ Warden v1.0.0 — Initial Release
+ | `2026-06-28` |
 
 <!--END_SECTION:releases-->
 
@@ -142,7 +143,7 @@ class RXNetworkSecurityLabs:
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-RX_Network_Security_Labs-2ecc71?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0c0c0c)](https://t.me/rxnetworksecuritylabs)
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-2ecc71?style=for-the-badge&logo=discord&logoColor=white&labelColor=0c0c0c)](https://discord.gg/gFtjWYQTzf)
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-2ecc71?style=for-the-badge&logo=discord&logoColor=white&labelColor=0c0c0c)](https://discord.gg/nWt82zV3s4)
 [![YouTube](https://img.shields.io/badge/YouTube-Coming_Soon-2ecc71?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0c0c0c)](https://github.com/RX-Network-Security-Labs?tab=repositories#youtube-coming-soon)
 [![GitHub](https://img.shields.io/badge/GitHub-RX--Network--Security--Labs-2ecc71?style=for-the-badge&logo=github&logoColor=white&labelColor=0c0c0c)](https://github.com/RX-Network-Security-Labs)
 
