@@ -31,9 +31,9 @@ class RXNetworkSecurityLabs:
 ## `> QUOTE OF THE DAY`
 
 <!--START_SECTION:quote-->
-> *"Privacy is not something I'm merely entitled to — it's an absolute prerequisite."*
+> *"Arguing that you don't care about privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say."*
 >
-> — **Marlon Brando**
+> — **Edward Snowden**
 <!--END_SECTION:quote-->
 
 ---
@@ -155,7 +155,7 @@ class RXNetworkSecurityLabs:
 <div align="center">
 
 <!--START_SECTION:timestamp-->
-`Last synced: 2026-06-29 22:18 UTC`
+`Last synced: 2026-06-30 11:29 UTC`
 <!--END_SECTION:timestamp-->
 
 &nbsp;
