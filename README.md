@@ -31,9 +31,9 @@ class RXNetworkSecurityLabs:
 ## `> QUOTE OF THE DAY`
 
 <!--START_SECTION:quote-->
-> *"Arguing that you don't care about privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say."*
+> *"Surveillance is the business model of the internet."*
 >
-> — **Edward Snowden**
+> — **Bruce Schneier**
 <!--END_SECTION:quote-->
 
 ---
@@ -155,7 +155,7 @@ class RXNetworkSecurityLabs:
 <div align="center">
 
 <!--START_SECTION:timestamp-->
-`Last synced: 2026-06-30 18:24 UTC`
+`Last synced: 2026-07-01 11:42 UTC`
 <!--END_SECTION:timestamp-->
 
 &nbsp;
