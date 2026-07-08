@@ -1,0 +1,97 @@
+<svg width="900" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0c0c0c; }
+      .border-line {
+        stroke: #2ecc71; stroke-width: 1; fill: none; opacity: 0.15;
+        stroke-dasharray: 900; stroke-dashoffset: 900;
+        animation: drawLine 1.8s 0.1s ease forwards;
+      }
+      @keyframes drawLine { to { stroke-dashoffset: 0; } }
+      .bracket {
+        fill: none; stroke: #2ecc71; stroke-width: 1.5; opacity: 0;
+        animation: bracketIn 0.8s 0.5s ease forwards;
+      }
+      @keyframes bracketIn { to { opacity: 0.35; } }
+      .title {
+        fill: #ffffff;
+        font-family: Courier New, monospace;
+        font-size: 28px;
+        font-weight: 700;
+        letter-spacing: 8px;
+        opacity: 0;
+        animation: slideIn 1s 0.3s cubic-bezier(0.22,1,0.36,1) forwards;
+      }
+      @keyframes slideIn {
+        0%   { opacity: 0; transform: translateX(-20px); }
+        100% { opacity: 1; transform: translateX(0); }
+      }
+      .sub {
+        fill: #2ecc71;
+        font-family: Courier New, monospace;
+        font-size: 11px;
+        letter-spacing: 4px;
+        opacity: 0;
+        animation: fadeUp 1s 0.9s ease forwards;
+      }
+      @keyframes fadeUp {
+        0%   { opacity: 0; transform: translateY(8px); }
+        100% { opacity: 0.8; transform: translateY(0); }
+      }
+      .cursor {
+        fill: #2ecc71;
+        animation: blink 1s step-end infinite;
+      }
+      @keyframes blink { 0%,100%{opacity:1;} 50%{opacity:0;} }
+      .scan {
+        stroke: #2ecc71; stroke-width: 0.8; fill: none; opacity: 0;
+        animation: scan 5s 1s ease-in-out infinite;
+      }
+      @keyframes scan {
+        0%   { opacity:0; transform:translateY(0); }
+        10%  { opacity:0.25; }
+        90%  { opacity:0.25; }
+        100% { opacity:0; transform:translateY(110px); }
+      }
+      .dot {
+        fill: #2ecc71;
+        animation: dotPop 2s ease-in-out infinite;
+      }
+      .d1{animation-delay:0s;}
+      .d2{animation-delay:0.2s;}
+      .d3{animation-delay:0.4s;}
+      @keyframes dotPop {
+        0%,100%{opacity:0.3;r:2;}
+        50%{opacity:1;r:3.5;}
+      }
+    </style>
+  </defs>
+
+  <rect width="900" height="120" class="bg" rx="6"/>
+
+  <!-- Top/bottom borders -->
+  <line x1="0" y1="1.5" x2="900" y2="1.5" class="border-line"/>
+  <line x1="0" y1="118.5" x2="900" y2="118.5" class="border-line"/>
+
+  <!-- Corner brackets -->
+  <polyline points="16,28 16,12 32,12" class="bracket"/>
+  <polyline points="868,12 884,12 884,28" class="bracket"/>
+  <polyline points="16,92 16,108 32,108" class="bracket"/>
+  <polyline points="868,108 884,108 884,92" class="bracket"/>
+
+  <!-- Scan line -->
+  <line x1="0" y1="10" x2="900" y2="10" class="scan"/>
+
+  <!-- Main title -->
+  <text x="450" y="58" class="title" text-anchor="middle">RX NETWORK SECURITY LABS</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="82" class="sub" text-anchor="middle">// WE CREATE WHAT HAS NEVER EXISTED</text>
+
+  <!-- Animated dots + cursor -->
+  <circle cx="370" cy="98" r="2" class="dot d1"/>
+  <circle cx="380" cy="98" r="2" class="dot d2"/>
+  <circle cx="390" cy="98" r="2" class="dot d3"/>
+  <rect x="399" y="91" width="2" height="12" class="cursor"/>
+
+</svg>
