@@ -46,10 +46,7 @@ class RXNetworkSecurityLabs:
 ## `> LATEST FROM TELEGRAM`
 
 <!--START_SECTION:telegram-->
-📨 **[Latest Post](https://t.me/rxnetworksecuritylabs/67)**
-> 📢 A new Admin has joined RNSL: RX (Chef Admin) 🛡️
->
-> `Wed, 15 Jul 2026` · [View on Telegram →](https://t.me/rxnetworksecuritylabs)
+> Could not fetch latest post — [visit our channel](https://t.me/rxnetworksecuritylabs)
 <!--END_SECTION:telegram-->
 
 ---
@@ -180,7 +177,7 @@ class RXNetworkSecurityLabs:
 <div align="center">
 
 <!--START_SECTION:timestamp-->
-`Last synced: 2026-07-18 07:56 UTC`
+`Last synced: 2026-07-18 13:22 UTC`
 <!--END_SECTION:timestamp-->
 
 &nbsp;
