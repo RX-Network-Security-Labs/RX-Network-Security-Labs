@@ -46,10 +46,7 @@ class RXNetworkSecurityLabs:
 ## `> LATEST FROM TELEGRAM`
 
 <!--START_SECTION:telegram-->
-📨 **[Assalamu Walaikum Wa Rahmatullahi Wa Barakatuhu.](https://t.me/rxnetworksecuritylabs/74)**
-> Assalamu Walaikum Wa Rahmatullahi Wa Barakatuhu.🤍I hope everyone is well. Sorry to say we are passing through much inact
->
-> `Thu, 06 Aug 2026` · [View on Telegram →](https://t.me/rxnetworksecuritylabs)
+> Could not fetch latest post — [visit our channel](https://t.me/rxnetworksecuritylabs)
 <!--END_SECTION:telegram-->
 
 ---
@@ -180,7 +177,7 @@ class RXNetworkSecurityLabs:
 <div align="center">
 
 <!--START_SECTION:timestamp-->
-`Last synced: 2026-08-12 07:37 UTC`
+`Last synced: 2026-08-12 13:16 UTC`
 <!--END_SECTION:timestamp-->
 
 &nbsp;
