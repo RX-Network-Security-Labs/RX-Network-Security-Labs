@@ -56,7 +56,7 @@ class RXNetworkSecurityLabs:
 <!--START_SECTION:apps-->
 | Repository | Description | Language | Stats | Updated |
 |---|---|---|---|---|
-| [`Warden-Android`](https://github.com/RX-Network-Security-Labs/Warden-Android) | Do you ever think what your installed apps do when you are not on the  | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square) | ⭐ 3 &nbsp; 🍴 0 | `2026-08-08` |
+| [`Warden-Android`](https://github.com/RX-Network-Security-Labs/Warden-Android) | Do you ever think what your installed apps do when you are not on the  | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square) | ⭐ 4 &nbsp; 🍴 0 | `2026-08-14` |
 <!--END_SECTION:apps-->
 
 ---
@@ -130,9 +130,9 @@ class RXNetworkSecurityLabs:
 ╠══════════════════════════════════════════════════════╣
 ║                                                      ║
 ║  📦  Repositories      4   ████████████████░░░░  → 5  ║
-║  ⭐  Total Stars       4   ████████░░░░░░░░░░░░  → 10  ║
+║  ⭐  Total Stars       5   ██████████░░░░░░░░░░  → 10  ║
 ║  🍴  Total Forks       0   ░░░░░░░░░░░░░░░░░░░░  → 10  ║
-║  👁️  Watchers          4                                  ║
+║  👁️  Watchers          5                                  ║
 ║  🔤  Primary Lang   HTML                                  ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
@@ -178,7 +178,7 @@ class RXNetworkSecurityLabs:
 <div align="center">
 
 <!--START_SECTION:timestamp-->
-`Last synced: 2026-08-14 02:09 UTC`
+`Last synced: 2026-08-14 07:36 UTC`
 <!--END_SECTION:timestamp-->
 
 &nbsp;
