@@ -46,10 +46,7 @@ class RXNetworkSecurityLabs:
 ## `> LATEST FROM TELEGRAM`
 
 <!--START_SECTION:telegram-->
-📨 **[Latest Post](https://t.me/rxnetworksecuritylabs/94)**
-> Give me just one more day...🤌😁
->
-> `Sat, 14 Nov 2026` · [View on Telegram →](https://t.me/rxnetworksecuritylabs)
+> Could not fetch latest post — [visit our channel](https://t.me/rxnetworksecuritylabs)
 <!--END_SECTION:telegram-->
 
 ---
@@ -109,6 +106,7 @@ class RXNetworkSecurityLabs:
 <!--START_SECTION:releases-->
 | Repository | Release | Notes | Date |
 |---|---|---|---|
+| [`AntiNSFW`](https://github.com/RX-Network-Security-Labs/AntiNSFW/releases/tag/v1.0.0) | `v1.0.0` · AntiNSFW v1.0.0 | ### Initial public release | `2026-11-22` |
 | [`GitPush-CLI`](https://github.com/RX-Network-Security-Labs/GitPush-CLI/releases/tag/v2.0.0) | `v2.0.0` · v2.0.0 — The Big Upgrade ⚡ | ## ⚡ What's New in v2.0.0 | `2026-08-23` |
 | [`Warden-Android`](https://github.com/RX-Network-Security-Labs/Warden-Android/releases/tag/v1.0.0) | `v1.0.0` · v1.0.0 | ## Warden v1.0.0 — Initial Release | `2026-07-31` |
 
@@ -133,9 +131,9 @@ class RXNetworkSecurityLabs:
 ╠══════════════════════════════════════════════════════╣
 ║                                                      ║
 ║  📦  Repositories      5   ██████████░░░░░░░░░░  → 10  ║
-║  ⭐  Total Stars       9   ██████████████████░░  → 10  ║
+║  ⭐  Total Stars      11   ████░░░░░░░░░░░░░░░░  → 50  ║
 ║  🍴  Total Forks       0   ░░░░░░░░░░░░░░░░░░░░  → 10  ║
-║  👁️  Watchers          9                                  ║
+║  👁️  Watchers         11                                  ║
 ║  🔤  Primary Lang   HTML                                  ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
@@ -181,7 +179,7 @@ class RXNetworkSecurityLabs:
 <div align="center">
 
 <!--START_SECTION:timestamp-->
-`Last synced: 2026-11-22 14:17 UTC`
+`Last synced: 2026-11-22 23:24 UTC`
 <!--END_SECTION:timestamp-->
 
 &nbsp;
