@@ -46,7 +46,10 @@ class RXNetworkSecurityLabs:
 ## `> LATEST FROM TELEGRAM`
 
 <!--START_SECTION:telegram-->
-> Could not fetch latest post — [visit our channel](https://t.me/rxnetworksecuritylabs)
+📨 **[Assalamu Walaikum Wa Rahmatullah Wa Barakatuhu! 🤍](https://t.me/rxnetworksecuritylabs/95)**
+> Assalamu Walaikum Wa Rahmatullah Wa Barakatuhu! 🤍So finally I came back. Yoo guys, RAVEN here. And before anything, I wa
+>
+> `Mon, 23 Nov 2026` · [View on Telegram →](https://t.me/rxnetworksecuritylabs)
 <!--END_SECTION:telegram-->
 
 ---
@@ -56,6 +59,7 @@ class RXNetworkSecurityLabs:
 <!--START_SECTION:apps-->
 | Repository | Description | Language | Stats | Updated |
 |---|---|---|---|---|
+| [`AntiNSFW`](https://github.com/RX-Network-Security-Labs/AntiNSFW) | An on-device, privacy-first NSFW shield built from scratch to fight di |  | ⭐ 2 &nbsp; 🍴 0 | `2026-11-23` |
 | [`Warden-Android`](https://github.com/RX-Network-Security-Labs/Warden-Android) | Do you ever think what your installed apps do when you are not on the  | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square) | ⭐ 6 &nbsp; 🍴 0 | `2026-11-19` |
 <!--END_SECTION:apps-->
 
@@ -179,7 +183,7 @@ class RXNetworkSecurityLabs:
 <div align="center">
 
 <!--START_SECTION:timestamp-->
-`Last synced: 2026-11-23 06:32 UTC`
+`Last synced: 2026-11-23 18:12 UTC`
 <!--END_SECTION:timestamp-->
 
 &nbsp;
